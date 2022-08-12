@@ -1,12 +1,12 @@
 {
-    "capmonsterKey": "0ba06f1df746f7e7b9f9308ba7125766",
-    "botToken": "MTAwNzM2NjQ5MDQzOTI5OTA5NA.G6KvMn.D3sE5db8h1GEWBRZGlhMtVUyBzC_M_nDqR0W4E",
-    "guildID": "971891853513347082",
+    "capmonsterKey": "",
+    "botToken": "",
+    "guildID": "",
     "botAdminId": [
-        "879263608880640060"
+        ""
     ],
     "botWhitelistedId": [
-        "879263608880640060"
+        ""
 
     ]
 }
