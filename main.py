@@ -1,5 +1,6 @@
 import discord, json, requests, os, httpx, base64, time, subprocess
 from discord.ext import commands, tasks
+import abilityrequests
 from colorama import Fore, init
 import string
 import random
